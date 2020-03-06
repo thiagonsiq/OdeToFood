@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{D39F99D3-2E35-48F1-911D-AB91807DE9C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Core", "OdeToFood.Core\OdeToFood.Core.csproj", "{D3CA7523-AC3A-4EA4-BDC4-8F5F6585C858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Data", "OdeToFood.Data\OdeToFood.Data.csproj", "{F9D9631C-AD10-4EA8-B503-5CD63F9B0F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39F99D3-2E35-48F1-911D-AB91807DE9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39F99D3-2E35-48F1-911D-AB91807DE9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39F99D3-2E35-48F1-911D-AB91807DE9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39F99D3-2E35-48F1-911D-AB91807DE9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CA7523-AC3A-4EA4-BDC4-8F5F6585C858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CA7523-AC3A-4EA4-BDC4-8F5F6585C858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CA7523-AC3A-4EA4-BDC4-8F5F6585C858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CA7523-AC3A-4EA4-BDC4-8F5F6585C858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D9631C-AD10-4EA8-B503-5CD63F9B0F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D9631C-AD10-4EA8-B503-5CD63F9B0F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D9631C-AD10-4EA8-B503-5CD63F9B0F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D9631C-AD10-4EA8-B503-5CD63F9B0F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
